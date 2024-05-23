@@ -27,10 +27,8 @@ The project directory structure is as follows:
 
 #### Model 1: Mountain Landslide Detection
 
-![original image](https://cdn.mathpix.com/snip/images/g9WNjpg8b0VtWTIcbfK_5OioyeQu1BfACoi99he6A9Q.original.fullsize.png)
-
 The objective of this model is to detect mountain landslides from remote sensing images. The model is constructed as follows:
-
+![original image](https://cdn.mathpix.com/snip/images/g9WNjpg8b0VtWTIcbfK_5OioyeQu1BfACoi99he6A9Q.original.fullsize.png)
 1. **Feature Extraction from Image Data (EfficientNetB7 + Spatial Attention Mechanism):**
    - Initial feature extraction is performed using EfficientNetB7.
    - Spatial Attention Mechanism (SAM) is applied to enhance important features.
